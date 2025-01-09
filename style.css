@@ -1,0 +1,31 @@
+    
+
+li{
+    text-align: left;
+    padding: 5px; 
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+div.container{
+    text-align: center;
+    background-color: aliceblue
+}
+.recipeUl{
+    display: inline-block;
+  text-align: left;
+;
+}
+#headline{
+    font-family: 'Tahoma', Courier, monospace;
+    background-color: seashell;
+}
+
+
+/* Here styling for /recipes */
+
+img{
+    width: auto; 
+    max-height:400px;
+}
+*{
+    text-align: center;
+}
